@@ -1,0 +1,9 @@
+{
+  "name": "ana-ai-dismantled",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ana AI — Neural Mind Dismantled Forever",
+  "scripts": {
+    "build": "echo 'Static site ready for Vercel deployment'"
+  }
+}
